@@ -1,0 +1,14 @@
+.top-login-from {
+    margin-top: 86px;
+   }
+   .monney{
+       width:50%;
+       margin:auto;
+       padding-top:20px;
+       padding-bottom:20px;
+       color:white;
+       border-radius:10px;
+   }
+   input{
+       outline:none;
+   }
